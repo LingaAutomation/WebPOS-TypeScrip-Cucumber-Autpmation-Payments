@@ -1,0 +1,581 @@
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:02.327 Hooks:43 - Start Scenario Name : Remove- Tax Exempt from Order Screen/Payment Screen.
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:02.380 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:02.415 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:02.443 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:02.472 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:02.500 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:03.591 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:03.633 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:05.005 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:05.097 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:05.136 BasePage:278 - T15 selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:05.185 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:05.229 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:06.278 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:07.825 BasePage:258 - Salad Category selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:11.877 BasePage:278 - Selected - CAESAR
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:14.945 BasePage:278 - Selected - Anchovy
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:14.985 BasePage:258 - Options button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:15.034 BasePage:278 - - Tax Exempt is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:15.091 BasePage:278 - Payment button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:15.145 BasePage:278 - Tapped Cash Payment
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.230 BasePage:278 - Exit button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.272 BasePage:258 - Options button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.311 BasePage:278 - - Tax Exempt is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.344 PaymentWindow:338 - Tax is not exempted
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.360 BasePage:278 - Payment button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.404 BasePage:278 - Tapped Cash Payment
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:17.953 BasePage:278 - Submit button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:20.987 BasePage:84 - Table layout screen is displayed - Table layout
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:21.004 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:21.037 BasePage:278 - T15 selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:21.073 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:21.106 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:21.174 OrderManagementScreen:1710 - 101-002
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:22.194 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:23.730 BasePage:258 - Salad Category selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:27.805 BasePage:278 - Selected - CAESAR
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:30.906 BasePage:278 - Selected - Anchovy
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:30.944 BasePage:258 - Options button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:30.980 BasePage:278 - - Tax Exempt is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:31.017 BasePage:278 - Payment button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:31.586 BasePage:278 - Tapped Cash Payment
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:31.644 BasePage:278 - Payment  selected
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:32.196 BasePage:278 - Submit button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:35.247 BasePage:84 - Table layout screen is displayed - Table layout
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:36.491 BasePage:278 - Tapped Check Stats Tab
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:36.554 BasePage:278 - Closed Checks list is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:41.674 PhoneOrderScreen:374 - 1
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:41.686 BasePage:258 - Tapped Closed Check in closed tab - 101-002
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:41.716 BasePage:278 - Tapped Reopen check stats button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:45.758 TableLayOutScreen:729 - I should see Order Screen
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:45.772 BasePage:258 - Options button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:45.808 BasePage:278 - - Tax Exempt is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:02:45.836 PaymentWindow:338 - Tax is not exempted
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:05.911 CheckOptionsScreen:199 - Done button
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:05.943 BasePage:278 - Payment button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:06.001 BasePage:278 - Tapped Cash Payment
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:06.569 BasePage:278 - Submit button is tapped
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:09.625 BasePage:84 - Table layout screen is displayed - Table layout
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:10.969 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2023-12-30 00:03:12.026 BasePage:49 - Power button is clicked
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:46.153 Hooks:43 - Start Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:46.416 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:46.523 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:46.664 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:46.815 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:46.979 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:48.293 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:48.470 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:50.004 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:50.281 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:50.389 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:50.501 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:50.593 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:50.763 OrderManagementScreen:1721 - 10-001
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:53.868 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:55.581 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:57.771 BasePage:278 - Selected - Burger
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:58.943 OrderManagementScreen:778 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:58.950 OrderManagementScreen:781 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:59.021 OrderManagementScreen:920 -  Tax is - $ 1.78
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:59.085 OrderManagementScreen:986 - Discount is - $ 9.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:16:59.161 Hooks:54 - Failed Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:50.498 Hooks:43 - Start Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:50.556 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:50.695 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:50.773 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:50.877 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:51.029 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:52.425 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:52.566 BasePage:278 - Order type combo is pressed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:18:52.767 Hooks:54 - Failed Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:44.113 Hooks:43 - Start Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:44.324 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:44.455 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:44.607 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:44.748 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:44.905 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:46.212 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:46.373 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:47.912 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:48.166 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:48.309 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:48.471 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:48.605 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:48.825 OrderManagementScreen:1721 - 12-001
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:51.935 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:53.607 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:55.796 BasePage:278 - Selected - Burger
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:56.974 OrderManagementScreen:778 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:56.977 OrderManagementScreen:781 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:57.041 OrderManagementScreen:920 -  Tax is - $ 1.78
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:57.119 OrderManagementScreen:986 - Discount is - $ 9.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:57.219 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:57.423 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:57.606 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:59.072 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:59.223 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:59.388 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:59.548 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:59.704 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:20:59.905 OrderManagementScreen:1721 - 12-002
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:03.002 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:04.696 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:06.877 BasePage:278 - Selected - Default Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.036 OrderManagementScreen:778 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.037 OrderManagementScreen:781 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.097 OrderManagementScreen:920 -  Tax is - $ 0.37
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.158 OrderManagementScreen:986 - Discount is - $ 5.25
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.236 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.381 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:08.478 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:09.920 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:10.103 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:10.259 BasePage:278 - T7 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:10.423 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:10.582 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:13.762 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:15.421 BasePage:278 - Selected - Appetizers
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:17.549 BasePage:278 - Selected - RAPINI
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:18.716 Discount:86 - SubTotal of Menu Item - $ 13.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:19.810 OrderManagementScreen:1352 -  Tax is - $ 0.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:20.892 Discount:164 - Total Value is - $ 14.33
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:21:20.930 Hooks:54 - Failed Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:41.879 Hooks:43 - Start Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:41.952 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:42.082 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:42.134 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:42.186 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:42.234 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:43.467 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:43.626 BasePage:278 - Order type combo is pressed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:22:43.850 Hooks:54 - Failed Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:16.584 Hooks:43 - Start Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:16.816 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:16.919 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:16.997 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:17.118 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:17.266 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:18.566 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:18.754 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:20.311 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:20.570 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:20.710 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:20.876 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:20.992 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:21.174 OrderManagementScreen:1721 - 14-001
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:24.267 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:25.950 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:28.118 BasePage:278 - Selected - Burger
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.281 OrderManagementScreen:778 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.287 OrderManagementScreen:781 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.354 OrderManagementScreen:920 -  Tax is - $ 1.78
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.420 OrderManagementScreen:986 - Discount is - $ 9.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.506 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.696 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:29.849 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:31.344 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:31.513 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:31.667 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:31.824 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:31.968 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:32.156 OrderManagementScreen:1721 - 14-002
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:35.249 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:36.906 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:39.027 BasePage:278 - Selected - Default Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.142 OrderManagementScreen:778 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.143 OrderManagementScreen:781 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.208 OrderManagementScreen:920 -  Tax is - $ 0.37
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.270 OrderManagementScreen:986 - Discount is - $ 5.25
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.366 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.535 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:40.718 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:42.192 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:42.364 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:42.516 BasePage:278 - T7 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:42.676 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:42.841 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:46.027 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:47.692 BasePage:278 - Selected - Appetizers
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:49.887 BasePage:278 - Selected - RAPINI
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:51.040 Discount:86 - SubTotal of Menu Item - $ 13.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:52.140 OrderManagementScreen:1352 -  Tax is - $ 0.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:53.217 Discount:164 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:53.217 Discount:167 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:54.402 BasePage:278 - 5 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:54.540 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:55.718 Discount:86 - SubTotal of Menu Item - $ 65.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:56.825 OrderManagementScreen:1352 -  Tax is - $ 6.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:57.874 Discount:164 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:28:57.874 Discount:167 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:29:00.008 Hooks:54 - Failed Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:21.866 Hooks:43 - Start Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:21.928 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:22.050 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:22.204 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:22.356 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:22.499 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:23.779 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:23.951 BasePage:278 - Order type combo is pressed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:24.237 BasePage:258 - Arrow Down
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:24.388 BasePage:278 - Tapped category
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:30:36.550 Hooks:54 - Failed Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:19.734 Hooks:43 - Start Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:19.949 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:20.026 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:20.086 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:20.151 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:20.217 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:21.449 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:21.591 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:23.081 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:23.285 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:23.368 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:23.464 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:23.562 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:23.757 OrderManagementScreen:1722 - 16-001
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:26.854 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:28.486 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:30.610 BasePage:278 - Selected - Burger
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:31.744 OrderManagementScreen:779 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:31.747 OrderManagementScreen:782 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:31.795 OrderManagementScreen:921 -  Tax is - $ 1.78
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:31.849 OrderManagementScreen:987 - Discount is - $ 9.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:31.926 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:32.060 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:32.157 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:33.558 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:33.665 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:33.747 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:33.833 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:33.916 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:34.059 OrderManagementScreen:1722 - 16-002
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:37.115 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:38.729 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:40.838 BasePage:278 - Selected - Default Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:41.929 OrderManagementScreen:779 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:41.930 OrderManagementScreen:782 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:41.971 OrderManagementScreen:921 -  Tax is - $ 0.37
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:42.012 OrderManagementScreen:987 - Discount is - $ 5.25
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:42.079 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:42.201 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:42.272 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:43.693 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:43.829 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:43.914 BasePage:278 - T7 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:44.023 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:44.109 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:47.232 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:48.837 BasePage:278 - Selected - Appetizers
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:50.968 BasePage:278 - Selected - RAPINI
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:52.098 Discount:86 - SubTotal of Menu Item - $ 13.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:53.177 OrderManagementScreen:1353 -  Tax is - $ 0.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:54.229 Discount:164 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:54.231 Discount:167 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:55.389 BasePage:278 - 5 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:55.492 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:56.603 Discount:86 - SubTotal of Menu Item - $ 65.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:57.705 OrderManagementScreen:1353 -  Tax is - $ 6.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:58.757 Discount:164 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:58.758 Discount:167 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:59.846 BasePage:278 - 8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:55:59.915 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:01.002 Discount:86 - SubTotal of Menu Item - $ 104.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:02.056 OrderManagementScreen:1353 -  Tax is - $ 15.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:03.098 Discount:164 - Total Value is - $ 119.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:03.099 Discount:167 - Total Value is - $ 119.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:03.137 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:03.225 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:03.301 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:04.705 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:04.782 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:04.869 BasePage:278 - T8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:04.953 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:05.019 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:08.132 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:09.778 BasePage:278 - Selected - Pasta
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:09.920 BasePage:278 - Tapped Ravioli Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:13.083 BasePage:278 - Selected - Butter
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:13.194 BasePage:258 - done for the menu item
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:14.294 Discount:86 - SubTotal of Menu Item - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:15.350 OrderManagementScreen:1353 -  Tax is - $ 1.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:16.397 Discount:164 - Total Value is - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:16.397 Discount:167 - Total Value is - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:16.444 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:16.539 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:16.616 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:18.005 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:18.073 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:18.136 BasePage:278 - T9 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:18.215 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:18.290 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:21.404 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:23.048 BasePage:278 - Selected - Arab Biriyani
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:25.191 BasePage:278 - Selected - sambar
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:56:32.419 Hooks:54 - Failed Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:03.491 Hooks:43 - Start Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:04.001 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:04.851 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:05.138 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:05.338 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:05.475 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:06.843 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:06.967 BasePage:278 - Order type combo is pressed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:07.205 BasePage:258 - Arrow Down
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:07.320 BasePage:278 - Tapped category
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 18:58:19.607 Hooks:54 - Failed Scenario Name : Item Based Inclusive Tax
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:43.543 Hooks:43 - Start Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:43.836 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:43.996 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:44.154 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:44.309 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:44.459 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:45.868 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:46.088 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:47.688 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:47.974 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:48.124 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:48.299 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:48.465 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:48.704 OrderManagementScreen:1744 - 18-001
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:51.814 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:53.514 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:55.730 BasePage:278 - Selected - Burger
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:56.916 OrderManagementScreen:779 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:56.920 OrderManagementScreen:782 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:57.001 OrderManagementScreen:921 -  Tax is - $ 1.78
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:57.082 OrderManagementScreen:987 - Discount is - $ 9.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:57.189 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:57.390 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:57.612 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:59.119 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:59.303 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:59.451 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:59.598 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:59.731 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:01:59.920 OrderManagementScreen:1744 - 18-002
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:03.008 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:04.678 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:06.865 BasePage:278 - Selected - Default Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.015 OrderManagementScreen:779 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.016 OrderManagementScreen:782 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.079 OrderManagementScreen:921 -  Tax is - $ 0.37
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.143 OrderManagementScreen:987 - Discount is - $ 5.25
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.242 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.420 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:08.546 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:09.973 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:10.116 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:10.246 BasePage:278 - T7 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:10.363 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:10.509 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:13.670 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:15.367 BasePage:278 - Selected - Appetizers
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:17.539 BasePage:278 - Selected - RAPINI
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:18.718 Discount:86 - SubTotal of Menu Item - $ 13.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:19.825 OrderManagementScreen:1353 -  Tax is - $ 0.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:20.900 Discount:164 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:20.901 Discount:167 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:22.095 BasePage:278 - 5 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:22.265 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:23.416 Discount:86 - SubTotal of Menu Item - $ 65.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:24.513 OrderManagementScreen:1353 -  Tax is - $ 6.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:25.589 Discount:164 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:25.590 Discount:167 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:26.778 BasePage:278 - 8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:26.937 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:28.103 Discount:86 - SubTotal of Menu Item - $ 104.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:29.195 OrderManagementScreen:1353 -  Tax is - $ 15.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:30.294 Discount:164 - Total Value is - $ 119.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:30.295 Discount:167 - Total Value is - $ 119.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:30.378 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:30.564 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:30.707 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:32.185 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:32.369 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:32.543 BasePage:278 - T8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:32.715 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:32.896 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:36.107 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:37.809 BasePage:278 - Selected - Pasta
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:38.009 BasePage:278 - Tapped Ravioli Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:41.264 BasePage:278 - Selected - Butter
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:41.434 BasePage:258 - done for the menu item
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:42.623 Discount:86 - SubTotal of Menu Item - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:43.720 OrderManagementScreen:1353 -  Tax is - $ 1.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:44.807 Discount:164 - Total Value is - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:44.808 Discount:167 - Total Value is - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:44.886 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:45.084 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:45.282 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:46.768 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:46.938 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:47.110 BasePage:278 - T9 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:47.258 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:47.417 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:50.595 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:52.277 BasePage:278 - Selected - Arab Biriyani
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:54.473 BasePage:278 - Selected - sambar
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:55.774 BasePage:278 - Selected - [[ChromeDriver: chrome on windows (8daa75fcd24f5b44fd17c238d1fb328e)] -> xpath: //ion-col[contains(@class,'quantity_grid-row')]//button//span[.='1']]
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:55.907 BasePage:278 - Selected - [[ChromeDriver: chrome on windows (8daa75fcd24f5b44fd17c238d1fb328e)] -> xpath: //ion-col[contains(@class,'quantity_grid-row')]//button//span[.='1']]
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:56.037 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:57.200 Discount:86 - SubTotal of Menu Item - $ 1,100.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:58.285 OrderManagementScreen:1353 -  Tax is - $ 0.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:02:58.343 Hooks:54 - Failed Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:35.453 Hooks:43 - Start Scenario Name : Item Based and Check based Taxes
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:35.785 BasePage:278 - Tapped pin 1
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:35.919 BasePage:258 - Tapped pin 2
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:36.036 BasePage:258 - Tapped pin 3
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:36.137 BasePage:258 - Tapped pin 4
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:36.256 BasePage:258 - Tapped Login.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:37.661 BasePage:258 - Order type selection is cancelled.
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:37.876 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:39.468 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:39.785 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:39.950 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:40.122 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:40.277 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:40.534 OrderManagementScreen:1744 - 19-001
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:43.654 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:45.342 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:47.532 BasePage:278 - Selected - Burger
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:48.730 OrderManagementScreen:779 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:48.735 OrderManagementScreen:782 - Subtotal Value is - $ 7.58
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:48.819 OrderManagementScreen:921 -  Tax is - $ 1.78
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:48.897 OrderManagementScreen:987 - Discount is - $ 9.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:49.013 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:49.212 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:49.410 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:50.890 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:51.088 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:51.260 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:51.399 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:51.542 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:51.756 OrderManagementScreen:1744 - 19-002
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:54.860 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:56.553 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:58.726 BasePage:278 - Selected - Default Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:59.848 OrderManagementScreen:779 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:59.849 OrderManagementScreen:782 - Subtotal Value is - $ 4.88
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:59.912 OrderManagementScreen:921 -  Tax is - $ 0.37
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:10:59.976 OrderManagementScreen:987 - Discount is - $ 5.25
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:00.076 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:00.250 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:00.410 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:01.893 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:02.074 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:02.243 BasePage:278 - T7 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:02.407 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:02.576 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:05.790 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:07.462 BasePage:278 - Selected - Appetizers
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:09.626 BasePage:278 - Selected - RAPINI
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:10.821 Discount:86 - SubTotal of Menu Item - $ 13.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:11.927 OrderManagementScreen:1353 -  Tax is - $ 0.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:13.003 Discount:164 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:13.004 Discount:167 - Total Value is - $ 13.65
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:14.234 BasePage:278 - 5 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:14.366 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:15.538 Discount:86 - SubTotal of Menu Item - $ 65.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:16.645 OrderManagementScreen:1353 -  Tax is - $ 6.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:17.716 Discount:164 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:17.717 Discount:167 - Total Value is - $ 71.50
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:18.922 BasePage:278 - 8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:19.094 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:20.261 Discount:86 - SubTotal of Menu Item - $ 104.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:21.369 OrderManagementScreen:1353 -  Tax is - $ 15.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:22.453 Discount:164 - Total Value is - $ 119.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:22.454 Discount:167 - Total Value is - $ 119.60
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:22.533 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:22.722 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:22.891 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:24.375 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:24.553 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:24.732 BasePage:278 - T8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:24.863 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:24.996 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:28.188 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:29.870 BasePage:278 - Selected - Pasta
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:30.040 BasePage:278 - Tapped Ravioli Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:33.244 BasePage:278 - Selected - Butter
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:33.384 BasePage:258 - done for the menu item
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:34.547 Discount:86 - SubTotal of Menu Item - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:35.639 OrderManagementScreen:1353 -  Tax is - $ 1.36
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:36.742 Discount:164 - Total Value is - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:36.743 Discount:167 - Total Value is - $ 15.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:36.836 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:37.025 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:37.187 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:38.669 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:38.837 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:39.009 BasePage:278 - T9 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:39.200 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:39.367 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:42.568 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:44.236 BasePage:278 - Selected - Arab Biriyani
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:46.409 BasePage:278 - Selected - sambar
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:47.701 BasePage:278 - Selected - [[ChromeDriver: chrome on windows (a57f90f8cd561632d670918776550f1c)] -> xpath: //ion-col[contains(@class,'quantity_grid-row')]//button//span[.='1']]
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:47.835 BasePage:278 - Selected - [[ChromeDriver: chrome on windows (a57f90f8cd561632d670918776550f1c)] -> xpath: //ion-col[contains(@class,'quantity_grid-row')]//button//span[.='1']]
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:48.020 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:49.210 Discount:86 - SubTotal of Menu Item - $ 1,100.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:50.298 OrderManagementScreen:1353 -  Tax is - $ 0.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:51.378 Discount:164 - Total Value is - $ 1,100.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:51.380 Discount:167 - Total Value is - $ 1,100.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:51.458 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:51.636 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:51.767 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:53.245 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:53.420 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:53.574 BasePage:278 - T10 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:53.767 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:53.925 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:57.136 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:11:58.802 BasePage:278 - Selected - Arab Biriyani
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:00.970 BasePage:278 - Selected - sambar
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:02.257 BasePage:278 - Selected - [[ChromeDriver: chrome on windows (a57f90f8cd561632d670918776550f1c)] -> xpath: //ion-col[contains(@class,'quantity_grid-row')]//button//span[.='1']]
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:02.397 BasePage:278 - 2 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:02.589 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:03.754 Discount:86 - SubTotal of Menu Item - $ 1,200.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:04.842 OrderManagementScreen:1353 -  Tax is - $ 0.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:05.938 Discount:164 - Total Value is - $ 1,200.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:05.938 Discount:167 - Total Value is - $ 1,200.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:06.021 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:06.203 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:06.346 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:07.805 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:08.000 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:08.194 BasePage:278 - T11 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:08.388 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:08.521 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:11.713 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:13.394 BasePage:278 - Selected - Pasta
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:13.576 BasePage:278 -  Tapped Ling Meatballs Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:16.844 BasePage:278 - Selected - Butter
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:17.019 BasePage:258 - done for the menu item
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:18.217 Discount:86 - SubTotal of Menu Item - $ 4.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:19.316 OrderManagementScreen:1353 -  Tax is - $ 0.44
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:20.391 Discount:164 - Total Value is - $ 4.44
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:20.392 Discount:167 - Total Value is - $ 4.44
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:20.484 BasePage:278 - Tapped Cash button for Close Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:20.652 BasePage:278 - Tapped Exact button 
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:20.797 BasePage:278 - Tapped Enter for Finish Sale
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:22.268 BasePage:278 - Tapped Table Layout Tab
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:22.451 BasePage:278 - Tapped New Check Button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:22.617 BasePage:278 - T8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:22.786 BasePage:278 - 1 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:22.930 BasePage:278 - Tapped Continue button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:26.091 BasePage:258 - the rest of the categories is listed
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:27.763 BasePage:278 - Selected - Menu
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:29.956 BasePage:278 - Selected - Halwa
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:31.244 BasePage:278 - 8 selected
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:31.408 BasePage:278 - Tapped Continue
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:32.574 Discount:86 - SubTotal of Menu Item - $ 80.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:33.664 OrderManagementScreen:1353 -  Tax is - $ 8.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:34.735 Discount:164 - Total Value is - $ 88.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:34.735 Discount:167 - Total Value is - $ 88.00
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:36.800 BasePage:258 - Void button tapped
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:36.937 BasePage:239 - All Orders are voided is Displayed - All Orders Are Voided
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:39.150 BasePage:278 - Tapped All button
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:42.396 BasePage:84 - Table layout screen is displayed - Table layout
+[${ctx:ROUTINGKEY} INFO ] 2024-01-02 19:12:43.470 BasePage:49 - Power button is clicked
